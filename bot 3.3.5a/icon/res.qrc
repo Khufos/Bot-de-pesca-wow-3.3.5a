@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagens">
+    <file>mar.jpg</file>
+  </qresource>
+</RCC>

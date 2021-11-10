@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/mar.jpg</file>
+  </qresource>
+</RCC>
