@@ -5,8 +5,8 @@
  #### As bibliotecas principais são opencv , pytesseract , pyqt6 , QTDesigner 6 , pyautogui , os, time, sys , numpy pra roda o ui.tela quiser modificar o layout
  #### Eu usei um software chamado  Cascade-Trainer-GUI pra fazer o cascade da boia para fins de detecção
 
- 
-![alt text]()
+ https://www.youtube.com/watch?v=ELv_nhrZdN8&t=208s
+![alt text](https://github.com/Khufos/Bot-de-pesca-wow-3.3.5a/blob/main/Screenshot_1.png)
 
 
  
